@@ -4,6 +4,8 @@
 
 Let the Wheel Decide is an interactive decision-making web application built with React, TypeScript, and Vite. It helps you make everyday decisions in a fun and engaging way using a customizable spinning wheel.
 
+< [🚀 **Live Demo — Try the App Now**](https://let-the-wheel-decide.vercel.app/) >
+
 Whether you're deciding what to eat, what to watch, where to go, or simply choosing between multiple options, let the wheel make the decision for you.
 
 ---
